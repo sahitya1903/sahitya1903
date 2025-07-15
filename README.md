@@ -12,11 +12,11 @@
   <table cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=sahitya1903&theme=dark&hide_border=true" width="550" height="200"/>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=sahitya1903&theme=dark&hide_border=true" width="550" height="400"/>
       </td>
       <td width="100" border: none></td> <!-- nice clean space -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahitya1903&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="400" height="200"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahitya1903&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="400" height="400"/>
       </td>
     </tr>
   </table>
