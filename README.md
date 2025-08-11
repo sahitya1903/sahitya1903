@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **SkillSync** – an AI-powered resume matcher (MERN + NLP)  <br>🤝 I’m looking to collaborate on **Web Dev, AI/ML projects, and DSA initiatives**  <br>🙋‍♂️ I’m looking for help with **optimizing ML models & getting better at LeetCode contests**  <br>🌱 I’m currently learning **CSS, React, Machine Learning, and System Design**  <br>💬 Ask me about **Java, Python, or how to build cool stuff with React**  <br>⚡ Fun fact: I drink more coffee debugging than writing code—but hey, that’s dev life ☕🚀
+🤝 I’m looking to collaborate on **Web Dev,ML projects, and DSA initiatives**  <br>🙋‍♂️ I’m looking for help with **getting better at LeetCode contests**  <br>🌱 I’m currently learning **Full Stack Web Dev and Machine Learning**  <br>💬 Ask me about **Java or Python** ☕🚀
 
 
 ## 🌐 Socials:
