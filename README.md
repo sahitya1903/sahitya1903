@@ -1,5 +1,9 @@
-# 💫 About Me:
-🤝 I’m looking to collaborate on **Web Dev,ML projects, and DSA initiatives**  <br>🙋‍♂️ I’m looking for help with **getting better at LeetCode contests**  <br>🌱 I’m currently learning **Full Stack Web Dev and Machine Learning**  <br>💬 Ask me about **Java or Python** ☕🚀
+# 💫 About Me  
+- 🔧 Building skills in **Full Stack Web Development**  
+- 📊 Practicing **DSA & Competitive Programming** to sharpen problem-solving  
+- 🤝 Open to collaborating on **scalable web apps and Java/Python-based solutions**  
+- 🏆 Actively preparing for **LeetCode contests & technical interviews**  
+- ☕ Strong foundation in **Java and Python** — backend, OOP, and problem-solving  
 
 
 ## 🌐 Socials:
