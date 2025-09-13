@@ -1,5 +1,5 @@
 ## 💫 About Me  
-- 🔧 Building skills in **Full Stack Web Development**  
+- 🔧 Building skills in **Full Stack Web Development** and **Machine Learning**
 - 📊 Practicing **DSA & Competitive Programming** to sharpen problem-solving  
 - 🤝 Open to collaborating on **scalable web apps and Java/Python-based solutions**  
 - 🏆 Actively preparing for **LeetCode contests & technical interviews**  
