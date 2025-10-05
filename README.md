@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sahitya%20Kushwaha&fontSize=40&animation=twinkling&fontAlignY=40)
 
-<h2 align="center">Hey there! I'm Sahitya Kushwaha..👋🙋‍♂️</h2>
+<h1 align="center">Hey there! I'm Sahitya Kushwaha..👋🙋‍♂️</h1>
 
 ## 🧑‍💻 About Me
 
@@ -9,13 +9,6 @@
 - 💡 Interested towards **Generative AI and Cloud Computing** 
 - ⚡ Fun fact: *Debugging is like being the detective in a crime movie where you are also the murderer.*  
 
----
-
-## 🏆 Certifications & Achievements
-- 🎓 **AWS AI & ML Scholars Program** – Certified  
-- 🏅 **NPTEL Introduction to Machine Learning (IIT Kharagpur)** – Scored 79% | Top 5% | Elite + Silver
-- 🥇 **HackerRank Badges** – 5★ Java | 4★ Python
-- 💻 **Competitive Programming** – Actively participating and practicing
 ---
 
 ## 🌐 Connect with Me
@@ -50,9 +43,8 @@
 </div>
   
 
----
 
-## 📈 Contribution Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahitya1903&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=38bdae&point=f4d03f&hide_border=true" width="100%"/>
 </div>
