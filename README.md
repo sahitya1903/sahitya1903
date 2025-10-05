@@ -1,14 +1,21 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sahitya%20Kushwaha&fontSize=40&animation=fadeIn&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sahitya%20Kushwaha&fontSize=40&animation=twinkling&fontAlignY=40)
 
 <h2 align="center">Hey there! I'm Sahitya Kushwaha..👋🙋‍♂️</h2>
 
 ## 🧑‍💻 About Me
 
-- 🎓 Engineering student at **NIT Andhra Pradesh** (ECE major | Software Engineering minor)  
-- 💡 Passionate about **Java Development, Web Technologies, and Cloud Computing**  
-- 🚀 Exploring **Machine Learning** and building **full-stack projects**    
+- 🎓 Prefinal year student (ECE Major | SWE Minor) at **NIT Andhra Pradesh**   
+- 🚀 Passionate about building **Full-Stack Web Development (MERN) Projects** and **Machine Learning**
+- 💡 Interested towards **Generative AI and Cloud Computing** 
 - ⚡ Fun fact: *Debugging is like being the detective in a crime movie where you are also the murderer.*  
 
+---
+
+## 🏆 Certifications & Achievements
+- 🎓 **AWS AI & ML Scholars Program** – Certified  
+- 🏅 **NPTEL Introduction to Machine Learning (IIT Kharagpur)** – Scored 79% | Top 5% | Elite + Silver
+- 🥇 **HackerRank Badges** – 5★ Java | 4★ Python
+- 💻 **Competitive Programming** – Actively participating and practicing
 ---
 
 ## 🌐 Connect with Me
@@ -18,19 +25,10 @@
 ---
 
 ## 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,aws" />
+</p>
+
 
 ---
 
@@ -61,12 +59,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Always%20building,%20always%20learning..😊&fontSize=30&animation=twinkling&fontAlignY=40)
 
 [![](https://visitcount.itsvg.in/api?id=sahitya1903&icon=0&color=0)](https://visitcount.itsvg.in)
