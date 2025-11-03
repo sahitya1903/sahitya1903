@@ -1,14 +1,13 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sahitya%20Kushwaha&fontSize=40&animation=twinkling&fontAlignY=40)
 
-<h1 align="center">Hey there! I'm Sahitya Kushwaha..👋🙋‍♂️</h1>
+<h1 align="center">Hey there! Welcome to my profile..👋🙋‍♂️</h1>
 
 ## 🧑‍💻 About Me
 
-- 🎓 Prefinal year student (ECE Major | SWE Minor) at **NIT Andhra Pradesh**   
-- 🚀 Passionate about building **Full-Stack Web Development (MERN) Projects** and **Machine Learning**
-- 💡 Interested towards **Generative AI and Cloud Computing** 
-- ⚡ Fun fact: *Debugging is like being the detective in a crime movie where you are also the murderer.*  
-
+- I'm a pre-final year B.Tech student with a solid grip on Data Structures, Algorithms, and Object-Oriented Programming.
+- I love turning ideas into real-world products — from crafting full-stack apps with the MERN stack and REST APIs to experimenting with cloud platforms (AWS, GCP) and Machine Learning frameworks.
+- I mostly build with Java, Python, and JavaScript, focusing on scalable and user-centered solutions.
+- I’m passionate about solving challenging problems, learning fast, and collaborating with teams that dream big.
 ---
 
 ## 🌐 Connect with Me
@@ -21,8 +20,10 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,javascript,react,nodejs,express,mongodb,mysql,git,github,aws" />
 </p>
+---
 
-
+## 🌟 Hacktoberfest 2025 Badges
+[![An image of @sahitya1903's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahitya1903)](https://holopin.io/@sahitya1903)
 ---
 
 ## 📊 GitHub Stats
@@ -43,15 +44,13 @@
 </div>
   
 
-
+---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahitya1903&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=38bdae&point=f4d03f&hide_border=true" width="100%"/>
 </div>
 
 ---
-## 🌟 Hacktoberfest 2025 Badges
-[![An image of @sahitya1903's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahitya1903)](https://holopin.io/@sahitya1903)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Always%20building,%20always%20learning..😊&fontSize=30&animation=twinkling&fontAlignY=40)
 
