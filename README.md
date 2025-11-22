@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-#### I’m a pre-final year engineering student who loves building things that actually work in the real world. I spend most of my time writing Java, Python, and JavaScript, exploring full-stack development with MERN, and sharpening my DSA fundamentals. I enjoy turning ideas into reliable software, whether it’s a smart detection system or a slick web app. Always learning, always building, and always chasing that next clean commit..☺️
+#### I’m a pre-final year engineering student who loves building things that actually work in the real world. I spend most of my time writing Java, Python, and JavaScript, exploring full-stack development with MERN, and sharpening my DSA fundamentals. I enjoy turning ideas into reliable software, whether it’s a smart detection system or any other web app. Always learning, always building, and always chasing that next clean commit..☺️
 ---
 
 ## 🌐 Connect with Me
