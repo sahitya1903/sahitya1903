@@ -4,10 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-- I'm a pre-final year B.Tech student with a solid grip on Data Structures, Algorithms, and Object-Oriented Programming.
-- I love turning ideas into real-world products — from crafting full-stack apps with the MERN stack and REST APIs to experimenting with cloud platforms (AWS, GCP) and Machine Learning frameworks.
-- I mostly build with Java, Python, and JavaScript, focusing on scalable and user-centered solutions.
-- I’m passionate about solving challenging problems, learning fast, and collaborating with teams that dream big.
+#### I’m a pre-final year engineering student who loves building things that actually work in the real world. I spend most of my time writing Java, Python, and JavaScript, exploring full-stack development with MERN, and sharpening my DSA fundamentals. I enjoy turning ideas into reliable software, whether it’s a smart detection system or a slick web app. Always learning, always building, and always chasing that next clean commit..☺️
 ---
 
 ## 🌐 Connect with Me
