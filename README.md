@@ -17,6 +17,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,javascript,react,nodejs,express,mongodb,mysql,git,github,aws" />
 </p>
+
 ---
 
 ## 🌟 Hacktoberfest 2025 Badges
