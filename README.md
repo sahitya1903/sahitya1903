@@ -1,6 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sahitya%20Kushwaha&fontSize=40&animation=twinkling&fontAlignY=40)
+<img width="2000" height="400" alt="head" src="https://github.com/user-attachments/assets/f5904f0c-81a9-4e0b-baa1-9812abcf58a4" />
 
-<h1 align="center">Hey there! Welcome to my profile..👋🙋‍♂️</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app/?font=Orbitron&size=36&duration=6000&color=00BFFF&center=true&width=650&height=60&lines=Hello+Coders!;Myself+Sahitya+Kushwaha...;Welcome+to+my+profile!" alt="Typing SVG" />
+</p>
 
 ## 🧑‍💻 About Me
 
@@ -49,7 +51,5 @@
 </div>
 
 ---
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Always%20building,%20always%20learning..😊&fontSize=30&animation=twinkling&fontAlignY=40)
 
 [![](https://visitcount.itsvg.in/api?id=sahitya1903&icon=0&color=0)](https://visitcount.itsvg.in)
