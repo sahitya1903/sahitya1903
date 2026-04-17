@@ -50,7 +50,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahitya1903&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=38bdae&point=f4d03f&hide_border=true" width="100%"/>
 </div>
 
-## Support Me ☕
+## Support Me
 <a href="https://www.buymeacoffee.com/sahitya1903" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
        alt="Buy Me A Coffee" 
