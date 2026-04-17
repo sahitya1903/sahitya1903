@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sahitya1903&theme=dark&hide_border=true" width="400"/>
+  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=sahitya1903&theme=dark&hide_border=true" width="400"/> -->
 
   <table cellspacing="0" cellpadding="0">
     <tr>
