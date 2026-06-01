@@ -50,13 +50,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahitya1903&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=38bdae&point=f4d03f&hide_border=true" width="100%"/>
 </div>
 
+---
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahitya1903/sahitya1903/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahitya1903/sahitya1903/output/pacman-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/sahitya1903/sahitya1903/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## Support Me
 <a href="https://www.buymeacoffee.com/sahitya1903" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
        alt="Buy Me A Coffee" 
        height="50">
 </a>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=sahitya1903&icon=0&color=0)](https://visitcount.itsvg.in)
