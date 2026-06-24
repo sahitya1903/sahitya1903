@@ -5,13 +5,13 @@
 </p>
 
 
-#### I’m a pre-final year engineering student who loves building things that actually work in the real world. I spend most of my time writing Java, Python, and JavaScript, exploring full-stack development with MERN, and sharpening my DSA fundamentals. I enjoy turning ideas into reliable software, whether it’s a smart detection system or any other web app. Always learning, always building, and always chasing that next clean commit..☺️
+#### I'm a pre-final year engineering student who genuinely enjoys building things with code. Most of my time goes into working with Java, Python, and JavaScript, exploring the MERN stack, and solving DSA problems. I love taking an idea from a random thought to a working project—whether it's an AI-powered detection system, a full-stack web application, or something entirely new. Always learning, always building, and always chasing that next clean commit..☺️
 
 
 
 ## Tech Stack:-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,javascript,react,nodejs,express,mongodb,mysql,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,bootstrap,react,redux,nodejs,express,mongodb,mysql,git,github,githubactions,docker,kubernetes,aws,azure,postman,tensorflow,opencv" />
 </p>
 
 
